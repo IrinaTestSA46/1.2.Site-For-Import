@@ -2,7 +2,7 @@ private1/
 
 tmp/
 
-*_backup/
+*.png_backup/
 
 Thumbs.db
 
