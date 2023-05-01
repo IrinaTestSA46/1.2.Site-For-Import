@@ -1,8 +1,6 @@
-private1/
-
 tmp/
 
-*.png_backup/
+*.png_backup
 
 Thumbs.db
 
